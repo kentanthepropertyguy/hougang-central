@@ -1,0 +1,33 @@
+{
+  "schema": "ktpg.directory/1",
+  "id": "hougang-central",
+  "name": "Hougang Central",
+  "aliases": [
+    "Hougang Central GLS",
+    "Hougang integrated development"
+  ],
+  "url": "https://hougangcentral.kentanthepropertyguy.com/",
+  "status": "configured",
+  "host": "hougangcentral.kentanthepropertyguy.com",
+  "stage": "pre-launch",
+  "tagline": "Homes, mall and bus interchange on one site at Hougang MRT.",
+  "summary": "Upcoming integrated development by CapitaLand Development and UOL: about 830 homes with a mall and bus interchange, linked to Hougang MRT. Pre-launch; prices not yet released.",
+  "area": "Hougang",
+  "district": "19",
+  "segment": "OCR",
+  "tenure": "99 years",
+  "developer": "CapitaLand Development and UOL",
+  "homes": 830,
+  "tags": [
+    "integrated",
+    "pre-launch",
+    "north-east",
+    "mrt-linked",
+    "hdb-upgraders"
+  ],
+  "pricing_status": "not_released",
+  "price_from": null,
+  "image": null,
+  "checked_on": "2026-10-09",
+  "framework": "1.1.0"
+}

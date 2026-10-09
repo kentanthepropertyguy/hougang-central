@@ -1,0 +1,16 @@
+{
+  "project": "hougang-central",
+  "framework": "1.1.0",
+  "mode": "production",
+  "built_on": "2026-10-09",
+  "checked_on": "2026-10-09",
+  "sections": [
+    "location",
+    "pricing",
+    "compare",
+    "assessment",
+    "updates",
+    "ask"
+  ],
+  "pricing_status": "not_released"
+}
